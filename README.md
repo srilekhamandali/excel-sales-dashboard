@@ -1,4 +1,14 @@
-# Excel Sales Dashboard
+<div align="center">
+
+# 📊 Excel Sales Dashboard
+
+### Business Analytics & Visualization Project
+
+</div>
+
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![Analytics](https://img.shields.io/badge/Domain-Business%20Analytics-blue)
+![Dashboard](https://img.shields.io/badge/Project-Dashboard-orange)
 
 ## Project Overview
 This project analyzes monthly sales data and presents business insights through an interactive Excel dashboard.
@@ -42,3 +52,6 @@ The dashboard helps identify:
 ## Conclusion
 This project demonstrates my ability to work with business data, create dashboards, and present insights using Excel analytics tools.# excel-sales-dashboard
 Sales analysis dashboard project using Excel with business insights and visualizations.
+
+---
+⭐ Created by SriLekha Mandali
